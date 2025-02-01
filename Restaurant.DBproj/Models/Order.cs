@@ -1,8 +1,8 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
-using Restaurant.DBproj.Models.Workers;
+using RestaurantManagement.DBproj.Models.Workers;
 
-namespace Restaurant.DBproj.Models
+namespace RestaurantManagement.DBproj.Models
 {
     public class Order
     {

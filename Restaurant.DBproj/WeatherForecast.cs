@@ -1,4 +1,4 @@
-namespace Restaurant.DBproj
+namespace RestaurantManagement.DBproj
 {
     public class WeatherForecast
     {

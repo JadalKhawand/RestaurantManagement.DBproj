@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Restaurant.DBproj.Models.Workers
+namespace RestaurantManagement.DBproj.Models.Workers
 {
     public class Worker
     {

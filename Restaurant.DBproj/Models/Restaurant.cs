@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
-namespace Restaurant.DBproj.Models
+namespace RestaurantManagement.DBproj.Models
 {
     public class Restaurant
     {
